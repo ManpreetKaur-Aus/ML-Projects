@@ -1,0 +1,39 @@
+2020-10-08/12:22:06		BadRaw directory deleted before starting validation!!!
+2020-10-08/12:22:06		GoodRaw directory deleted successfully!!!
+2020-10-08/12:26:29		GoodRaw directory deleted successfully!!!
+2020-10-08/12:26:29		Bad files moved to archive
+2020-10-08/12:26:29		Bad Raw Data Folder Deleted successfully!!
+2020-10-08/12:31:33		BadRaw directory deleted before starting validation!!!
+2020-10-08/12:31:33		GoodRaw directory deleted successfully!!!
+2020-10-08/12:32:57		BadRaw directory deleted before starting validation!!!
+2020-10-08/12:32:57		GoodRaw directory deleted successfully!!!
+2020-10-08/12:33:14		BadRaw directory deleted before starting validation!!!
+2020-10-08/12:33:14		GoodRaw directory deleted successfully!!!
+2020-10-08/12:33:33		BadRaw directory deleted before starting validation!!!
+2020-10-08/12:33:33		GoodRaw directory deleted successfully!!!
+2020-10-08/12:34:05		BadRaw directory deleted before starting validation!!!
+2020-10-08/12:34:05		GoodRaw directory deleted successfully!!!
+2020-10-08/12:35:43		GoodRaw directory deleted successfully!!!
+2020-10-08/12:35:43		Bad files moved to archive
+2020-10-08/12:35:43		Bad Raw Data Folder Deleted successfully!!
+2020-10-08/12:38:42		GoodRaw directory deleted successfully!!!
+2020-10-08/12:38:42		Bad files moved to archive
+2020-10-08/12:38:42		Bad Raw Data Folder Deleted successfully!!
+2020-10-08/12:41:30		GoodRaw directory deleted successfully!!!
+2020-10-08/12:41:30		Bad files moved to archive
+2020-10-08/12:41:30		Bad Raw Data Folder Deleted successfully!!
+2020-10-08/13:02:00		GoodRaw directory deleted successfully!!!
+2020-10-08/13:02:00		Bad files moved to archive
+2020-10-08/13:02:00		Bad Raw Data Folder Deleted successfully!!
+2020-10-08/14:46:16		BadRaw directory deleted before starting validation!!!
+2020-10-08/14:46:16		GoodRaw directory deleted successfully!!!
+2020-10-08/14:47:14		BadRaw directory deleted before starting validation!!!
+2020-10-08/14:47:14		GoodRaw directory deleted successfully!!!
+2020-10-08/14:47:21		BadRaw directory deleted before starting validation!!!
+2020-10-08/14:47:21		GoodRaw directory deleted successfully!!!
+2020-10-08/14:47:48		BadRaw directory deleted before starting validation!!!
+2020-10-08/14:47:48		GoodRaw directory deleted successfully!!!
+2020-10-08/14:47:53		BadRaw directory deleted before starting validation!!!
+2020-10-08/14:47:53		GoodRaw directory deleted successfully!!!
+2020-10-08/14:47:55		BadRaw directory deleted before starting validation!!!
+2020-10-08/14:47:55		GoodRaw directory deleted successfully!!!
