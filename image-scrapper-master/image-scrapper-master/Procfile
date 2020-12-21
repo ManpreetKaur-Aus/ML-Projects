@@ -1,0 +1,1 @@
+web: python imageApp.py   --master --processes 4 --threads 2
