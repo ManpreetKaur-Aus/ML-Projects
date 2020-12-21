@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<title>Search Page</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+{% endblock %}
+
+{% block body %}
+<h1 style="text-align: center">Wine Quality</h1>
+
+<div class="form">
+    <form action="/predict" method="POST">
+        <input type="number" name="fixed_acidity" id="fixed_acidity" placeholder="Fixed Acidity" step="0.1">
+        <input type="number" name="volatile_acidity" id="volatile_acidity" placeholder="Volatile Acidity" step="0.001">
+        <input type="number" name="citric_acid" id="citric_acid" placeholder="Citric Acid" step="0.01">
+        <input type="number" name="residual_sugar" id="residual_sugar" placeholder="Residual Sugar" step="0.1">
+        <input type="number" name="chlorides" id="chlorides" placeholder="Chlorides" step="0.001">
+        <input type="number" name="free_sulfur_dioxide" id="free_sulfur_dioxide" placeholder="Free Sulfur Dioxide" step="0.1">
+        <input type="number" name="total_sulfur_dioxide" id="total_sulfur_dioxide" placeholder="Total Sulfur Dioxide" step="0.001">
+        <input type="number" name="density" id="density" placeholder="Density" step="0.0001">
+        <input type="number" name="pH" id="pH" placeholder="pH" step="0.01">
+        <input type="number" name="sulphates" id="sulphates" placeholder="Sulphates" step="0.01">
+        <input type="number" name="alcohol" id="alcohol" placeholder="Alcohol" step="0.1">
+
+        <input type="submit" value="Predict">
+    </form>
+</div>
+{% endblock %}
