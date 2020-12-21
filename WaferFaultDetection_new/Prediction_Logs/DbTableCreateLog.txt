@@ -1,6 +1,0 @@
-2020-10-07/13:54:48		Tables created successfully!!
-2020-10-08/12:24:03		Tables created successfully!!
-2020-10-08/12:35:43		Tables created successfully!!
-2020-10-08/12:38:42		Tables created successfully!!
-2020-10-08/12:41:30		Tables created successfully!!
-2020-10-08/13:02:00		Tables created successfully!!

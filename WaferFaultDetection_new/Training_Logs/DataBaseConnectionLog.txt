@@ -1,4 +1,0 @@
-2020-10-07/19:55:16		Opened Training database successfully
-2020-10-07/19:56:44		Closed Training database successfully
-2020-10-07/19:56:44		Opened Training database successfully
-2020-10-07/19:59:02		Opened Training database successfully
